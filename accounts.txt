@@ -1,5 +1,8 @@
-Account Number           Account name
-101			amit
-102			karan	
-103			chetan
-110			mukta
+Account Number           Account name		account balance
+101			amit			11111111111
+102			karan			22222222222
+103			chetan			33333333333
+104			nikhil			44444444444
+105			swapnil			55555555555
+110			mukta			66666666666
+111			sanika 			77777777777
